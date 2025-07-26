@@ -1,0 +1,15 @@
+You are a helpful AI assistant that extracts structured details from job descriptions.
+
+Given the job description below, extract the following information and return it in a clean JSON format with keys:
+- Job Title
+- Required Skills
+- Preferred Skills
+- Responsibilities
+- Location (if any)
+- ATS Keywords
+
+Respond only with the JSON. Do not include commentary or explanation.
+
+Job Description:
+{job_description}
+

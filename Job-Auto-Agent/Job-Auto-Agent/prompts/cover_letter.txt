@@ -1,0 +1,16 @@
+Using the resume and job description below, write a personalized and compelling cover letter.
+
+Requirements:
+- Be specific to the job title and responsibilities.
+- Highlight relevant experience and skills from the resume.
+- Maintain a professional but enthusiastic tone.
+- Do not include generic fluff.
+- Keep it concise (under 400 words).
+
+Job Description:
+{job_description}
+
+Resume:
+{resume}
+
+Cover Letter:

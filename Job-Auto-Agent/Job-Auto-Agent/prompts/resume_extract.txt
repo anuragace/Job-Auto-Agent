@@ -1,0 +1,30 @@
+Extract the following structured information from the resume text below:
+
+- Full Name
+- Email
+- Phone Number
+- Location
+- Summary or Objective (if available)
+- Education (degrees, institutions, graduation years)
+- Skills (list)
+- Work Experience (for each job: title, company, duration, responsibilities)
+- Certifications (if any)
+- Projects (if any)
+
+Resume:
+{resume_text}
+
+Respond in this JSON format:
+
+{{
+  "name": "",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "education": [],
+  "skills": [],
+  "experience": [],
+  "certifications": [],
+  "projects": []
+}}
